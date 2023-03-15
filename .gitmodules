@@ -3,3 +3,43 @@
 	url = https://github.com/r-universe-org/cran-to-git
 	shallow = true
 	branch = HEAD
+[submodule "celestial"]
+	path = celestial
+	url = https://github.com/asgr/celestial
+	shallow = true
+	registered = true
+[submodule "hyper.fit"]
+	path = hyper.fit
+	url = https://github.com/asgr/hyper.fit
+	shallow = true
+	registered = true
+[submodule "magicaxis"]
+	path = magicaxis
+	url = https://github.com/asgr/magicaxis
+	shallow = true
+	registered = true
+[submodule "NFWdist"]
+	path = NFWdist
+	url = https://github.com/asgr/nfwdist
+	shallow = true
+	registered = true
+[submodule "ProFound"]
+	path = ProFound
+	url = https://github.com/asgr/profound
+	shallow = true
+	registered = true
+[submodule "snapshot"]
+	path = snapshot
+	url = https://github.com/asgr/snapshot
+	shallow = true
+	registered = true
+[submodule "sphereplot"]
+	path = sphereplot
+	url = https://github.com/asgr/sphereplot
+	shallow = true
+	registered = true
+[submodule "tggd"]
+	path = tggd
+	url = https://github.com/asgr/tggd
+	shallow = true
+	registered = true
