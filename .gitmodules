@@ -43,3 +43,18 @@
 	url = https://github.com/asgr/tggd
 	shallow = true
 	registered = true
+[submodule "Highlander"]
+	path = Highlander
+	url = https://github.com/asgr/Highlander
+	shallow = true
+	registered = false
+[submodule "Rfits"]
+	path = Rfits
+	url = https://github.com/asgr/Rfits
+	shallow = true
+	registered = false
+[submodule "Rwcs"]
+	path = Rwcs
+	url = https://github.com/asgr/Rwcs
+	shallow = true
+	registered = false

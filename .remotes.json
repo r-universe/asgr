@@ -1,0 +1,20 @@
+[
+  {
+    "package": "Highlander",
+    "url": "https://github.com/asgr/Highlander",
+    "via": ["ProFound"],
+    "from": "ProFound"
+  },
+  {
+    "package": "Rfits",
+    "url": "https://github.com/asgr/Rfits",
+    "via": ["ProFound"],
+    "from": "ProFound"
+  },
+  {
+    "package": "Rwcs",
+    "url": "https://github.com/asgr/Rwcs",
+    "via": ["ProFound"],
+    "from": "ProFound"
+  }
+]
