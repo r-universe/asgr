@@ -2,6 +2,24 @@
 	path = .registry
 	url = https://github.com/r-universe-org/cran-to-git
 	branch = HEAD
+[submodule "Highlander"]
+	path = Highlander
+	url = https://github.com/asgr/Highlander
+	registered = false
+[submodule "NFWdist"]
+	path = NFWdist
+	url = https://github.com/asgr/nfwdist
+[submodule "ProFound"]
+	path = ProFound
+	url = https://github.com/asgr/profound
+[submodule "Rfits"]
+	path = Rfits
+	url = https://github.com/asgr/Rfits
+	registered = false
+[submodule "Rwcs"]
+	path = Rwcs
+	url = https://github.com/asgr/Rwcs
+	registered = false
 [submodule "celestial"]
 	path = celestial
 	url = https://github.com/asgr/celestial
@@ -14,12 +32,6 @@
 [submodule "magicaxis"]
 	path = magicaxis
 	url = https://github.com/asgr/magicaxis
-[submodule "NFWdist"]
-	path = NFWdist
-	url = https://github.com/asgr/nfwdist
-[submodule "ProFound"]
-	path = ProFound
-	url = https://github.com/asgr/profound
 [submodule "snapshot"]
 	path = snapshot
 	url = https://github.com/asgr/snapshot
@@ -29,15 +41,3 @@
 [submodule "tggd"]
 	path = tggd
 	url = https://github.com/asgr/tggd
-[submodule "Highlander"]
-	path = Highlander
-	url = https://github.com/asgr/Highlander
-	registered = false
-[submodule "Rfits"]
-	path = Rfits
-	url = https://github.com/asgr/Rfits
-	registered = false
-[submodule "Rwcs"]
-	path = Rwcs
-	url = https://github.com/asgr/Rwcs
-	registered = false
