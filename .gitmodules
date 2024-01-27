@@ -5,21 +5,12 @@
 [submodule "NFWdist"]
 	path = NFWdist
 	url = https://github.com/asgr/nfwdist
-[submodule "ProFound"]
-	path = ProFound
-	url = https://github.com/asgr/profound
 [submodule "celestial"]
 	path = celestial
 	url = https://github.com/asgr/celestial
-[submodule "hyper.fit"]
-	path = hyper.fit
-	url = https://github.com/asgr/hyper.fit
 [submodule "imager"]
 	path = imager
 	url = https://github.com/asgr/imager
-[submodule "magicaxis"]
-	path = magicaxis
-	url = https://github.com/asgr/magicaxis
 [submodule "snapshot"]
 	path = snapshot
 	url = https://github.com/asgr/snapshot
