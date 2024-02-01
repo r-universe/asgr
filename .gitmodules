@@ -11,6 +11,9 @@
 [submodule "imager"]
 	path = imager
 	url = https://github.com/asgr/imager
+[submodule "magicaxis"]
+	path = magicaxis
+	url = https://github.com/asgr/magicaxis
 [submodule "snapshot"]
 	path = snapshot
 	url = https://github.com/asgr/snapshot
