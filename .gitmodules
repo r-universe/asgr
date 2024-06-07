@@ -8,6 +8,9 @@
 [submodule "celestial"]
 	path = celestial
 	url = https://github.com/asgr/celestial
+[submodule "hyper.fit"]
+	path = hyper.fit
+	url = https://github.com/asgr/hyper.fit
 [submodule "imager"]
 	path = imager
 	url = https://github.com/asgr/imager
