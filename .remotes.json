@@ -4,5 +4,11 @@
     "url": "https://github.com/asgr/LaplacesDemon",
     "via": ["hyper.fit"],
     "from": "hyper.fit"
+  },
+  {
+    "package": "ParmOff",
+    "url": "https://github.com/asgr/ParmOff",
+    "via": ["magicaxis"],
+    "from": "magicaxis"
   }
 ]
