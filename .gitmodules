@@ -11,8 +11,7 @@
 	url = https://github.com/asgr/nfwdist
 [submodule "ParmOff"]
 	path = ParmOff
-	url = https://github.com/asgr/ParmOff
-	registered = false
+	url = https://github.com/asgr/parmoff
 [submodule "celestial"]
 	path = celestial
 	url = https://github.com/asgr/celestial
